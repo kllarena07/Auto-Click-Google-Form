@@ -1,4 +1,4 @@
-#Auto Submitting Google Forms
+# Auto-Submitting-Google-Forms
 
 This is something that I just made for fun.
 
